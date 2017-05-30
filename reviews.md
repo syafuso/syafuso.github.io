@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-category-reviews
 title: Reviews
 permalink: /reviews/
 ---

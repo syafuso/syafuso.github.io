@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-category-strategy
 title: Strategy
 permalink: /strategy/
 ---
