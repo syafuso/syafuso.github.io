@@ -1,6 +1,6 @@
 ---
 layout: post-category-reviews
-title: Reviews
+title: Military Gear Reviews
 permalink: /reviews/
 ---
 

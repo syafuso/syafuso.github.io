@@ -1,6 +1,6 @@
 ---
 layout: post-category-strategy
-title: Strategy
+title: War Strategies
 permalink: /strategy/
 ---
 

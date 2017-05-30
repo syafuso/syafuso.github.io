@@ -188,3 +188,5 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .site-header { border-top: 0px; border-bottom: 0px; min-height: 55.95px; position: relative; background: black; }
 
 .site-nav .page-link { color: white; line-height: 1.5; }
+
+.site-title { max-width: 210px; }
