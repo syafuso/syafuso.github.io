@@ -1,16 +1,23 @@
 ---
 layout: post
-title:  "Sun Tzu's Art of War Series: The Art of Surprise."
+preview-title: "Part 1: The Art of Surprise."
+title: "The Art of Surprise."
+subtitle: "Sun Tzu's Art of War Series - Part 1"
 date:   2017-05-28 20:10:36 -0700
+author: Kevin Boehle
 categories: strategy
 ---
 Today, we'll take a dive into something difficult to prepare against and possibly bewildering… Because that something is surprise!
  
 In his infamous collection of proverbs known as “The Art of War”, Sun Tzu spends much time discussing the importance of being unpredictable in deadly ways.
  
-To quote the man: “In all fighting, the direct method may be used for joining the battle, but indirect methods will be needed in order to secure victory.” (The Art of War, Sun Tzu, Chapter V: Energy, Paragraph 5)
+To quote the man: 
+
+“In all fighting, the direct method may be used for joining the battle, but indirect methods will be needed in order to secure victory.” (The Art of War, Sun Tzu, Chapter V: Energy, Paragraph 5)
  
-Not About the Bigger Guns or the Better Tactics
+<img src="/images/posts/test.jpg" alt="Test Image"/>
+
+<h2>Not About the Bigger Guns or the Better Tactics</h2>
  
 So what does he mean by “indirect methods?”
 I can assure you of at least one thing - definitely not just artillery.
@@ -43,7 +50,7 @@ The retreat turned into a route as panicked men tried to flee the kill zone esta
  
 Soon after, the rest of Liu Bei’s forces capitalized on Zhao Yun’s victory by cornering Cao Coa’s army and pushing it further towards the Han River. In the resulting confusion and route, many men were pushed into the rushing river and drowned which heralded the victory of Liu Bei’s military campaign.
  
-In Summary - Focus on Tempo!
+<h2>In Summary - Focus on Tempo!</h2>
  
 What Zhao Yun did was obviously brilliant, but it was based off of the simple principle of surprise.
  
@@ -53,16 +60,3 @@ Cao Cao suddenly didn’t know what he was walking into, and that hesitation was
  
 Think about different ways you can defy or manage your enemy’s expectations. Bend those assumptions to your benefit and you will find an opportunity everywhere you look.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
