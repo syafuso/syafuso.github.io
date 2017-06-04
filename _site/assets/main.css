@@ -1,4 +1,5 @@
 /** Reset some basic elements */
+@import url("https://fonts.googleapis.com/css?family=Muli:600,700,800,900");
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Basic styling */
@@ -185,8 +186,61 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
+/*GLOBAL FONTS*/
+h1, h2, h3, strong, p.overall-rating, a.page-link, p.product-value-prop { font-family: 'Muli', sans-serif; }
+
+p.product-value-prop { font-size: 20px; font-weight: 800; margin-top: 22px; margin-bottom: 5px; }
+
+p { font-family: 'Helvetica', serif; font-size: 15px; }
+
+strong { font-weight: 900; }
+
+.comparison-chart a, .comparison-chart a:visited, a.amazon-link, a.amazon-link:visited { color: #d00000; text-decoration: none; padding-bottom: 2px; border-bottom: solid 3px #d00000; font-size: 12px; font-weight: 500; }
+
+/*end global*/
 .site-header { border-top: 0px; border-bottom: 0px; min-height: 55.95px; position: relative; background: black; }
 
 .site-nav .page-link { color: white; line-height: 1.5; }
 
 .site-title { max-width: 210px; }
+
+/*--------REVIEW POST----------*/
+/*POST HEADER*/
+.post-header { position: relative; top: -133px; text-align: center; color: white; background: black; padding: 53px 0px; margin-bottom: -100px; }
+
+p.product-image { text-align: center; }
+
+.product-review-explanation { margin-bottom: 60px; }
+
+/*COMPARISON CHART*/
+table.comparison-chart { margin-bottom: 60px; }
+
+.comparison-chart td { padding: 32px 10px; text-align: center; width: 25%; }
+
+.comparison-chart tr, td { outline: solid 5px black; }
+
+.comparison-chart p.product-name { font-size: 12px; line-height: 16px; margin-bottom: 3px; }
+
+.comparison-chart img { width: 100%; }
+
+/*REVIEW RATING SECTION*/
+.review-rating { width: 50%; float: left; }
+
+.review-rating-numbers { display: none; }
+
+ul.ratingsBars { margin-left: 0px; }
+
+.ratingsBars .categoryWrap, .overall-rating { font-size: 12px; line-height: 14px; letter-spacing: 1px; text-transform: uppercase; }
+
+.overall-rating .num { font-size: 31px; }
+
+.ratingsBars .categoryWrap strong { float: right; font-size: 14px; }
+
+.ratingsBars .barWrap { background-color: #DBDBDB; height: 6px; margin: 3px 0 15px; position: relative; }
+
+.innerBarWrap { height: 6px; background-color: black; position: absolute; }
+
+ul li { list-style: none; }
+
+/*end review*/
+/*-------END REVIEW POST---------*/

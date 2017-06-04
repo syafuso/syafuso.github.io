@@ -4,17 +4,34 @@
   {% include head.html %}
 
   <body>
-
     {% include header.html %}
-
+    <div class="main-banner">
+      {% if page.main-banner %}
+        <img src={{ page.main-banner | escape }} alt={{ page.main-banner-alt | escape }}>
+      {% endif %}
+    </div>
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>
     </main>
-    {% include sidebar.html %}
     {% include footer.html %}
 
+<!--ADD TARGET=_BLANK AND .AMAZON-LINK TO ALL AMAZON LINKS-->
+<script>
+window.onload = function(){
+  var anchors = document.getElementsByTagName('a');
+  for (var i=0; i<anchors.length; i++){
+    if (anchors[i].href.indexOf("amazon") > -1){
+        anchors[i].setAttribute('target', '_blank');
+        anchors[i].className = "amazon-link";
+    }
+
+  }
+}
+</script>
+
   </body>
+
 
 </html>

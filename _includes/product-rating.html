@@ -1,0 +1,26 @@
+<div class="review-rating">
+  <p class="overall-rating"></p>
+  <p class="review-rating-numbers">{{ include.content }}</p>
+  <ul class="ratingsBars edBars">
+    {% assign my_arr = include.content | split: ',' %}
+    {% for pair_str in my_arr %}
+      {% assign pair_arr = pair_str | split: ':' %}
+      {% if pair_arr[0] == 'Overall Rating' %}
+          <p class="overall-rating"><span class="num">{{ pair_arr[1] }}</span> Overall Rating</p>
+      {% endif %}
+      {% if pair_arr[0] != 'Overall Rating' %}
+        <li class="ratingBarStyle">
+          <div class="categoryWrap">
+            <span>{{ pair_arr[0] }}</span> 
+            <strong>{{ pair_arr[1] }}</strong>
+          </div>
+          <div class="barWrap">
+            {% assign barPercent = 'style="width:' | append: pair_arr[1] | append: '0%;"' %}
+            <div class="innerBarWrap" {{ barPercent }} >
+            </div>
+          </div>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>                 
+</div>
