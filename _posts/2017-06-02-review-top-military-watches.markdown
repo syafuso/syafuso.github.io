@@ -18,7 +18,7 @@ To help you out, we’ve compiled a list of four watches that are sure to fulfil
 
 <h3>Quick Buying Tips</h3>
 
-<strong>LOOK FOR</strong> faces that are easy to read regardless of lighting conditions, contain bold numbers for quick recognition, and typically draw from a darker color palette.
+<strong>WELL-DESIGNED FACES</strong> are easy to read regardless of lighting conditions, contain bold numbers for quick recognition, and typically draw from a darker color palette.
 
 Ever since their introduction into the armed forces in World War I, watches in the military style have typically emphasized a classy but no-frills approach to the business of timekeeping. 
  
@@ -34,25 +34,29 @@ Each of the traits mentioned above was considered carefully in the recommending 
 	<tr>
 		<td>
 			<img src="/images/posts/wargame-theory-review-best-military-watch-1.jpg" alt="G-Shock Black Resin Watch">
-			<p class="product-value-prop">Best Overall</p>
+			<p class="product-value-prop">Best Overall</p>		
+			<p class="product-name product-price"><strong>$40-$50</strong></p>	
 			<p class="product-name">G-Shock Black Resin<br>Sport Watch</p>
 			<a href="https://www.amazon.com/G-Shock-DW6900-1V-Black-Resin-Sport/dp/B000GAYQL8/ref=sr_1_fkmr0_4?ie=UTF8&qid=1496521239&sr=8-4-fkmr0&keywords=DW9052-1V+wristband" target="_blank">Check Amazon Price</a>
 		</td>
 		<td>
 			<img src="/images/posts/wargame-theory-review-best-military-watch-2.jpg" alt="G-Shock Green Quartz Watch">
 			<p class="product-value-prop">Most Durable</p>
+			<p class="product-name product-price"><strong>$197-$320</strong></p>	
 			<p class="product-name">G-Shock Quartz Resin & Stainless Steel Casual Watch</p>
 			<a href="https://www.amazon.com/Casio-SHOCK-Quartz-Stainless-Casual/dp/B01DTJNCOE/ref=sr_1_19?ie=UTF8&qid=1496238217&sr=8-19&keywords=casio+gshock" target="_blank">Check Amazon Price</a>
 		</td>
 		<td>
 			<img src="/images/posts/wargame-theory-review-best-military-watch-3.jpg" alt="Luminox Quartz Movement With Rubber Band, Black Watch">
-			<p class="product-value-prop">Best On-Duty</p>
+			<p class="product-value-prop">Best Design</p>
+			<p class="product-name product-price"><strong>$190-$205</strong></p>	
 			<p class="product-name">Luminox Navy Seal Colormark Quartz Watch</p>
 			<a href="https://www.amazon.com/Luminox-3051-BO-Colormark-Quartz-Movement/dp/B002NGNSOE/ref=pd_sbs_241_2?_encoding=UTF8&pd_rd_i=B002NGNSOE&pd_rd_r=3B2ACB4DQKWMNMBP4KTJ&pd_rd_w=SDXoW&pd_rd_wg=ZIKTT&psc=1&refRID=3B2ACB4DQKWMNMBP4KTJ" target="_blank">Check Amazon Price</a>
 		</td>
 		<td>
 			<img src="/images/posts/wargame-theory-review-best-military-watch-4.jpg" alt="Seiko Stainless Steel Watch">
-			<p class="product-value-prop">Best Off-Duty</p>
+			<p class="product-value-prop">Best Casual</p>
+			<p class="product-name product-price"><strong>$45-$55</strong></p>	
 			<p class="product-name">Seiko 5 Automatic<br>Stainless Steel Watch</p>
 			<a href="https://www.amazon.com/G-Shock-DW6900-1V-Black-Resin-Sport/dp/B000GAYQL8/ref=sr_1_fkmr0_4?ie=UTF8&qid=1496521239&sr=8-4-fkmr0&keywords=DW9052-1V+wristband" target="_blank">Check Amazon Price</a>
 		</td>							
@@ -91,7 +95,7 @@ Reinforced to oblivion and packed with useful features, this watch will take you
 
 <br>
 
-<h3>Best On-Duty: Luminox Navy Seal Colormark Quartz Watch</h3>
+<h3>Best Design: Luminox Navy Seal Colormark Quartz Watch</h3>
 
 Used by Navy Seals and law enforcement, this classy piece of glass will tell you what you need to know anytime and anyplace.
 
@@ -107,7 +111,7 @@ Used by Navy Seals and law enforcement, this classy piece of glass will tell you
 
 <br>
 
-<h3>Best Off-Duty: Seiko 5 Automatic Stainless Steel Watch</h3>
+<h3>Best Casual: Seiko 5 Automatic Stainless Steel Watch</h3>
 
 Featuring classic military style & precision, this sharp timepiece is perfect for your everyday needs.
 
