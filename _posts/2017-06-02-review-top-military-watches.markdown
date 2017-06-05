@@ -56,9 +56,9 @@ Each of the traits mentioned above was considered carefully in the recommending 
 		<td>
 			<img src="/images/posts/wargame-theory-review-best-military-watch-4.jpg" alt="Seiko Stainless Steel Watch">
 			<p class="product-value-prop">Best Casual</p>
-			<p class="product-name product-price"><strong>$45-$55</strong></p>	
+			<p class="product-name product-price"><strong>$130-$140</strong></p>	
 			<p class="product-name">Seiko 5 Automatic<br>Stainless Steel Watch</p>
-			<a href="https://www.amazon.com/G-Shock-DW6900-1V-Black-Resin-Sport/dp/B000GAYQL8/ref=sr_1_fkmr0_4?ie=UTF8&qid=1496521239&sr=8-4-fkmr0&keywords=DW9052-1V+wristband" target="_blank">Check Amazon Price</a>
+			<a href="https://www.amazon.com/Seiko-SNZG15-Automatic-Stainless-Steel/dp/B006I22GT2/ref=pd_sim_241_2?_encoding=UTF8&pd_rd_i=B006I22GT2&pd_rd_r=AEJ69X79BFSP8J01EXZJ&pd_rd_w=oExkq&pd_rd_wg=2Ayn9&psc=1&refRID=AEJ69X79BFSP8J01EXZJ" target="_blank">Check Amazon Price</a>
 		</td>							
 	</tr>
 </table>
