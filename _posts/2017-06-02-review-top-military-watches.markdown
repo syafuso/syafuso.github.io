@@ -22,7 +22,7 @@ __WELL-DESIGNED FACES__ are easy to read regardless of lighting conditions, cont
 
 Ever since their introduction into the armed forces in World War I, watches in the military style have typically emphasized a classy but no-frills approach to the business of timekeeping. 
  
-__CLASSIC BRANDS__ include the Casio G-Shock and Timex Ironman, which are very popular with the US military. This is because they have developed a reputation for their durability, ease of use, and functionality.
+__CLASSIC BRANDS__ include Casio and Timex, which are very popular with the US military. Both have developed product lines with a great reputation for their durability, ease of use, and functionality.
  
 Each of the traits mentioned above was considered carefully in the recommending the following timepieces:
 
@@ -65,16 +65,16 @@ Each of the traits mentioned above was considered carefully in the recommending 
 
 ### Best Overall: Casio G-Shock Men's Black Resin Sport Watch
 
-Durable enough to withstand combat, yet cheap enough to risk it, this watch will deliver what you need at a bargain.
+Durable enough to withstand combat, yet cheap enough to risk it, this watch will deliver what you need at a great price.
 
 {% include product-rating.html content="Overall Rating:9, Durability:9, Functionality:9, Ease of Use:9, Readability:9" %} 
 <p class="product-image"><img src="/images/posts/wargame-theory-review-best-military-watch-1.jpg" alt="G-Shock Black Resin Watch" /></p>
 
-__THE GOOD__ This watch represents the ultimate crossroads of durability, functionality, ease of use, and price. Coming in at under $50.00, this watch is water resistant up to 200m and can take a hell of a beating before it goes down.
+__THE GOOD__ This watch represents the ultimate combination of durability, functionality, ease of use, and price. Coming in at under $50.00, this watch is water resistant up to 200m and can take a hell of a beating before it goes down.
 
 __THE BAD__ The wristband isn’t as strong as the more expensive G-Shock models, but replacement straps are bought cheaply enough at under $15.00.
 
-__THE BOTTOM LINE__ While not technically as durable as the GG-1000-1A3CR, it’s a quarter of the price and as tough as a pile of bricks. Tried & trusted by members in the military, you really can’t go wrong if you’re looking for something that can survive falls better than you can.
+__THE BOTTOM LINE__ While not technically as durable as the GG-1000-1A3CR, it’s a quarter of the price and as tough as a pile of bricks. Tried & trusted by members in the military, you really can’t go wrong if you’re looking for something that can survive a fall better than you can.
 [View in Amazon.com][product-link-1]
 
 <br>
@@ -122,7 +122,7 @@ __THE GOOD__ Quartz precision on a platform trusted by military members. High qu
 
 __THE BAD__ With 100m water resistance, it is inevitable that the SNZG15 will be rated lower than the other watches listed here in terms of durability.
 
-__THE BOTTOM LINE__ If you’re looking for a quality watch that can stand an active lifestyle while maintaining that classic military look, look no farther. The Seiko is your boy!
+__THE BOTTOM LINE__ If you’re looking for a quality watch that can stand up to an active lifestyle while maintaining that classic military look, look no further. The Seiko is your boy!
 [View in Amazon.com][product-link-4]
 
 
