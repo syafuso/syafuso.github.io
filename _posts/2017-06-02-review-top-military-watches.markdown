@@ -36,14 +36,14 @@ Each of the traits mentioned above was considered carefully in the recommending 
 			<img src="/images/posts/wargame-theory-review-best-military-watch-1.jpg" alt="G-Shock Black Resin Watch">
 			<p class="product-value-prop">Best Overall</p>		
 			<p class="product-name product-price"><strong>$40-$50</strong></p>	
-			<p class="product-name">G-Shock Black Resin<br>Sport Watch</p>
+			<p class="product-name">Casio G-Shock Black Resin Sport Watch</p>
 			<a href="https://www.amazon.com/G-Shock-DW6900-1V-Black-Resin-Sport/dp/B000GAYQL8/ref=sr_1_fkmr0_4?ie=UTF8&qid=1496521239&sr=8-4-fkmr0&keywords=DW9052-1V+wristband" target="_blank">Check Amazon Price</a>
 		</td>
 		<td>
 			<img src="/images/posts/wargame-theory-review-best-military-watch-2.jpg" alt="G-Shock Green Quartz Watch">
 			<p class="product-value-prop">Most Durable</p>
 			<p class="product-name product-price"><strong>$197-$320</strong></p>	
-			<p class="product-name">G-Shock Quartz Resin & Stainless Steel Casual Watch</p>
+			<p class="product-name">Casio G-Shock Quartz Resin & Stainless Steel Casual Watch</p>
 			<a href="https://www.amazon.com/Casio-SHOCK-Quartz-Stainless-Casual/dp/B01DTJNCOE/ref=sr_1_19?ie=UTF8&qid=1496238217&sr=8-19&keywords=casio+gshock" target="_blank">Check Amazon Price</a>
 		</td>
 		<td>
@@ -63,7 +63,7 @@ Each of the traits mentioned above was considered carefully in the recommending 
 	</tr>
 </table>
 
-### Best Overall: G-Shock Men's Black Resin Sport Watch
+### Best Overall: Casio G-Shock Men's Black Resin Sport Watch
 
 Durable enough to withstand combat, yet cheap enough to risk it, this watch will deliver what you need at a bargain.
 
