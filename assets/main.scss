@@ -46,6 +46,16 @@ strong{
 .site-title{
 	max-width: 210px;
 }    
+/*main banner*/
+.main-banner {
+    max-height: 500px;
+    overflow: hidden;
+}
+.main-banner img{
+    width: 100%;
+}
+/*end main*/
+
 /*--------REVIEW POST----------*/
 /*POST HEADER*/
 .post-header {
