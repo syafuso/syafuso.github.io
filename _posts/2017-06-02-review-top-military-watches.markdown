@@ -43,7 +43,7 @@ Each of the traits mentioned above was considered carefully in the recommending 
 			<img src="/images/posts/wargame-theory-review-best-military-watch-2.jpg" alt="G-Shock Green Quartz Watch">
 			<p class="product-value-prop">Most Durable</p>
 			<p class="product-name product-price"><strong>$197-$320</strong></p>	
-			<p class="product-name">Casio G-Shock Quartz Resin & Stainless Steel Casual Watch</p>
+			<p class="product-name">Casio G-Shock Quartz Resin & Stainless Steel Watch</p>
 			<a href="https://www.amazon.com/Casio-SHOCK-Quartz-Stainless-Casual/dp/B01DTJNCOE/ref=sr_1_19?ie=UTF8&qid=1496238217&sr=8-19&keywords=casio+gshock" target="_blank">Check Amazon Price</a>
 		</td>
 		<td>
