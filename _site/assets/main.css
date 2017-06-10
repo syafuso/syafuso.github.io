@@ -197,9 +197,9 @@ strong { font-weight: 900; }
 
 .comparison-chart a, .comparison-chart a:visited, a.amazon-link, a.amazon-link:visited { color: #d00000; text-decoration: none; padding-bottom: 2px; border-bottom: solid 3px #d00000; font-size: 12px; font-weight: 500; }
 
-body { background-color: #f5f5f5; }
+header, footer { background: rgba(245, 245, 245, 0.29); }
 
-.site-header { border-top: 0px; border-bottom: 0px; min-height: 55.95px; position: relative; background: #f5f5f5; }
+.site-header { border-top: 0px; border-bottom: 0px; min-height: 55.95px; position: relative; }
 
 .site-nav .page-link { color: black; line-height: 1.5; }
 
@@ -220,6 +220,8 @@ a:hover { text-decoration: none; }
 .main-banner .headline { font-size: 53px; line-height: 58px; font-weight: 800; }
 
 .main-banner .tint-overlay { background-color: rgba(0, 0, 0, 0.48); width: 100%; position: absolute; height: 500px; background-blend-mode: soft-light; }
+
+.main-banner-section-wrapper { position: absolute; height: 500px; width: 50%; padding: 0px; background: initial; }
 
 .main-banner-left { position: relative; width: 50%; height: 500px; float: left; background-image: url("../images/home/wargame_theory_destroyed_landscape.jpg"); background-size: cover; background-repeat: no-repeat; }
 
