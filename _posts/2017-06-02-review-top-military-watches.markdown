@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Top Military Watches 2017"
+title:  "Top Military Watches [Updated 2017]"
 permalink: top-military-watches
 date:   2017-06-02 20:10:36 -0700
 categories: [reviews, watch]
