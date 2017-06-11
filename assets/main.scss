@@ -19,7 +19,9 @@ p {
 	font-family: 'Helvetica', serif;
     font-size: 15px;
 }
-
+a:visited {
+    color: initial;
+}
 
 strong{
     font-weight: 900;
@@ -212,6 +214,63 @@ ul li {
 
 /*end review*/
 /*-------END REVIEW POST---------*/
+
+
+/*-------CATEGORY PAGE---------*/
+.category-page-banner {
+    height: 300px;
+    position: relative;
+}
+.category-page-banner h1{
+    z-index: 1;
+    color: white;
+    position: absolute;
+    padding-bottom: -10px;
+    bottom: -25px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    text-align: center;
+    left: 0;
+    right: 0;
+    font-size: 63px;
+    letter-spacing: -1px;
+    font-weight: 900;
+}
+
+h2.category-page{
+    font-size: 28px;
+    font-weight: 900;
+    border-bottom: solid 7px black;
+    margin-top: 27px;
+    height: 38px;
+}
+
+img.thumbnail-image {
+    max-width: 172px;
+    width: 100%;
+}
+
+ul.post-list{
+    margin-left: -15px;
+    width: 772px;
+}
+.post-list > li {
+    margin-bottom: 30px;
+    width: 21%;
+    margin: 2%;
+    display: inline;
+    float: left;
+}
+.thumbnail-title{
+    margin-top: 9px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: -15px;
+}
+
+
+/*-------end category----------*/
+
 
 
 @media only screen and (max-width: 768px) {

@@ -5,11 +5,20 @@
 
   <body>
     {% include header.html %}
-    <div class="main-banner">
-      {% if page.main-banner %}
-        <img src={{ page.main-banner | escape }} alt={{ page.main-banner-alt | escape }}>
-      {% endif %}
-    </div>
+    <!-- category page main banner and title-->
+    {% if layout.main-banner %}
+      <div class="main-banner category-page-banner">
+          <h1>{{ layout.category-title | escape }}</h1>
+          <div class="tint-overlay"></div>
+          <img src={{ layout.main-banner | escape }} alt={{ layout.main-banner-alt | escape }}>
+      </div>
+    {% endif %}
+    <!-- blog post main banner -->
+    {% if page.main-banner %}
+      <div class="main-banner">
+          <img src={{ page.main-banner | escape }} alt={{ page.main-banner-alt | escape }}>
+      </div>
+    {% endif %}
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}

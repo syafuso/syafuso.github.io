@@ -6,6 +6,10 @@ subtitle: "Sun Tzu's Art of War Series - Part 1"
 date:   2017-05-28 20:10:36 -0700
 author: Kevin Boehle
 categories: strategy
+main-banner: /images/posts/wargame-theory-review-art-of-war-1-main-banner.jpg
+main-banner-alt: "Running Soldiers"
+thumbnail-image: /images/category/wargame_theory_thumbnail_art_of_war_1.png
+author: Kevin Boehle
 ---
 Today, we'll take a dive into something difficult to prepare against and possibly bewildering… Because that something is surprise!
  

@@ -1,11 +1,12 @@
 ---
 layout: default
+main-banner: /images/category/wargame_theory_category_banner_destroyed_landscape.jpg
+main-banner-alt: "Desolate Landscape"
+category-title: "Military HISTORY"
 ---
 
 <div class="home">
-
-
-  <h1 class="page-heading">STRATEGY</h1>
+  <h2 class="page-heading category-page">ART OF WAR SERIES</h2>
   
   {{ content }}
 
@@ -13,14 +14,18 @@ layout: default
       {% for post in site.categories.strategy %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <!--<span class="post-meta">{{ post.date | date: date_format }}</span>-->
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          <img class="thumbnail-image" src="{{ post.thumbnail-image | escape }}" alt="{{ post.main-banner-alt | escape }}">
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
+          <p class="thumbnail-title">
+            {{ post.title | escape }}
+          </p>
+        </a>
       </li>
     {% endfor %}
   </ul>
+
 
 
   <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>-->
