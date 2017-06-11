@@ -244,6 +244,8 @@ p.product-image { text-align: center; }
 
 .product-review-explanation { margin-bottom: 60px; }
 
+.product-image img { max-width: 200px; width: 100%; }
+
 /*COMPARISON CHART*/
 table.comparison-chart { margin-bottom: 60px; }
 
