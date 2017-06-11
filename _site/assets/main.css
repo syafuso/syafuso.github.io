@@ -193,6 +193,8 @@ p.product-value-prop { font-size: 20px; font-weight: 800; margin-top: 22px; marg
 
 p { font-family: 'Helvetica', serif; font-size: 15px; }
 
+p.thumbnail-title { color: black; }
+
 a:visited { color: initial; }
 
 strong { font-weight: 900; }
