@@ -6,7 +6,7 @@ date:   2017-06-10 20:10:36 -0700
 categories: [reviews, watch]
 main-banner: /images/posts/wargame-theory-review-best-g-shock-watch-main-banner.jpg
 main-banner-alt: "G-Shock Watch"
-thumbnail-image: /images/category/wargame_theory_thumbnail_best_military_g-shock.jpg
+thumbnail-image: /images/posts/wargame-theory-review-best-g-shock-watch-thumbnail.jpg
 author: Kevin Boehle
 ---
 

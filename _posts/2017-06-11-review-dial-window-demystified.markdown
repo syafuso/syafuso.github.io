@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Dial Window Demystified: Acrylic, Mineral, and Sapphire Watches"
+title:  "The Dial Window Demystified"
 permalink: dial-window-demystified
 date:   2017-06-10 20:10:36 -0700
 categories: [reviews, watch]

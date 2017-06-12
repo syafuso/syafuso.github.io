@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Top Military Watches [Updated 2017]"
+title:  "Top Military Watches [2017 Update]"
 permalink: top-military-watches
 date:   2017-06-02 20:10:36 -0700
 categories: [reviews, watch]
 main-banner: /images/posts/wargame-theory-review-best-military-watch-main-banner.jpg
 main-banner-alt: "Military Watch"
-thumbnail-image: /images/category/wargame_theory_thumbnail_top_military_watches_2017.png
+thumbnail-image: /images/posts/wargame-theory-review-best-military-watch-thumbnail.jpg
 author: Kevin Boehle
 ---
 What defines a military watch? Is it durability? The number of functions it can perform? Its classic, no-nonsense appearance?
