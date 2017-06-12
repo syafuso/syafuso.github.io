@@ -119,7 +119,7 @@ Featuring classic military style & precision, this sharp timepiece is perfect fo
 {% include product-rating.html content="Overall Rating:7.75, Durability:5, Functionality:6, Ease of Use:10, Readability:10" %} 
 <p class="product-image"><img src="/images/posts/wargame-theory-review-best-military-watch-4.jpg" alt="Seiko Stainless Steel Watch"></p>
 
-__THE GOOD__ Quartz precision on a platform trusted by military members. High quality timekeeping and features illuminated hands for easy reading in the day or night. It’s hardlex mineral window is very impact resistant and can withstand a few punches.
+__THE GOOD__ Quartz precision on a platform trusted by military members. High quality timekeeping and features illuminated hands for easy reading in the day or night. It’s proprietary Hardlex mineral window features the best in class impact resistance and scratch resistance for its type.
 
 __THE BAD__ With 100m water resistance, it is inevitable that the SNZG15 will be rated lower than the other watches listed here in terms of durability.
 
