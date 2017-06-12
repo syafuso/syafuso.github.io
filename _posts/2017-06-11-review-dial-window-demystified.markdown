@@ -11,7 +11,6 @@ author: Kevin Boehle
 ---
 
 There are chiefly three different types of glass which can be used on watches: acrylic, mineral (glass), and sapphire. Some materials are more expensive than others, but all have different properties which potentially render them equally useful as long as you understand the advantages and limitations of each.
-
 <br>
 
 ### Quick Comparison Chart
@@ -21,22 +20,22 @@ There are chiefly three different types of glass which can be used on watches: a
 		<td>
 			<img src="/images/posts/watches/wargame-theory-review-window-demystified-watch-1.jpg" alt="Armitron Watch With Acrylic Window">
 			<p class="product-value-prop">Acrylic Dial Window</p>		
-			<!--<p class="product-name product-price"><strong>$75-$130</strong></p>	-->
-			<p class="product-name">Most Shatter-Resistant</p>
+			<!--<p class="product-name product-price"><strong>Vickers Hardness Range:<br>20-500</strong></p>	-->
+			<p class="product-name">Vickers Hardness Range:<br>20-500</p>
 			<!--<a href="https://www.amazon.com/Armitron-Sport-408159BLK-Chronograph-Digital/dp/B001RNNBCS/ref=sr_1_3?ie=UTF8&qid=1497224125&sr=8-3&keywords=acrylic+movement+military+watch" target="_blank">Check Amazon Price</a>-->
 		</td>
 		<td>
 			<img src="/images/posts/watches/wargame-theory-review-window-demystified-watch-2.jpg" alt="Casio Watch With Mineral Window">
 			<p class="product-value-prop">Mineral Dial Window</p>
 			<!--<p class="product-name product-price"><strong>$75-$130</strong></p>	-->	
-			<p class="product-name">Most Scratch-Resistant</p>
+			<p class="product-name">Vickers Hardness Range:<br>600-800</p>
 			<!--<a href="https://www.amazon.com/Armitron-Sport-408159BLK-Chronograph-Digital/dp/B001RNNBCS/ref=sr_1_3?ie=UTF8&qid=1497224125&sr=8-3&keywords=acrylic+movement+military+watch" target="_blank">Check Amazon Price</a>-->
 		</td>
 		<td>
 			<img src="/images/posts/watches/wargame-theory-review-window-demystified-watch-3.jpg" alt="Casio Watch With Sapphire Window">
 			<p class="product-value-prop">Sapphire Dial Window</p>
 			<!--<p class="product-name product-price"><strong>$75-$130</strong></p>	-->	
-			<p class="product-name">Most Scratch & Shatter-Resistant</p>
+			<p class="product-name">Vickers Hardness Range:<br>2000-2200</p>
 			<!--<a href="https://www.amazon.com/Armitron-Sport-408159BLK-Chronograph-Digital/dp/B001RNNBCS/ref=sr_1_3?ie=UTF8&qid=1497224125&sr=8-3&keywords=acrylic+movement+military+watch" target="_blank">Check Amazon Price</a>-->
 		</td>						
 	</tr>
@@ -47,7 +46,7 @@ __VICKERS HARDNESS RANGE: 20-500__
 
 Cheap to buy but hard to break, acrylic was the first material used in standard issue military watches.
 
-{% include product-rating.html content="Overall Rating:7, Shatter Resistance:4, Vickers Hardness Range:10" %} 
+{% include product-rating.html content="Overall Rating:7, Scratch Resistance:4, Shatter Resistance:10" %} 
 <p class="product-image"><img src="/images/posts/watches/wargame-theory-review-window-demystified-watch-1.jpg" alt="Armitron Watch With Acrylic Window"></p>
 
 __THE GOOD__ Among each of the options for window glass, you can’t beat acrylic for its flexibility. It’s more shatter resistant than even the most expensive materials and scratches can even be buffed out with toothpaste.
@@ -63,7 +62,7 @@ __VICKERS HARDNESS RANGE: 600-800__
 
 Tempered glass provides a middle ground between price, scratch resistance, and flexibility.
 
-{% include product-rating.html content="Overall Rating:7.5, Shatter Resistance:7, Vickers Hardness Range:8" %} 
+{% include product-rating.html content="Overall Rating:7.8, Scratch Resistance:7, Shatter Resistance:8" %}  
 <p class="product-image"><img src="/images/posts/watches/wargame-theory-review-window-demystified-watch-2.jpg" alt="Casio Watch With Mineral Window"></p>
 
 __THE GOOD__ More difficult to scratch than plastic but easier to shatter, glass has become the most common material for watch windows by the industry due to its price and the reduced need for user maintenance.
@@ -79,7 +78,7 @@ __VICKERS HARDNESS RANGE: 2000-2200__
 
 A defining characteristic of an expensive watch, this material can take both the hammer and the rake and still save face.
 
-{% include product-rating.html content="Overall Rating:9.5, Shatter Resistance:10, Vickers Hardness Range:9" %} 
+{% include product-rating.html content="Overall Rating:9.5, Scratch Resistance:10, Shatter Resistance:9" %} 
 <p class="product-image"><img src="/images/posts/watches/wargame-theory-review-window-demystified-watch-3.jpg" alt="Casio Watch With Sapphire Window"></p>
 
 __THE GOOD__ You won’t find better scratch resistance on a watch window unless you manage to fashion one of out of diamond. But at that point you might as well buy several watches with sapphire and call it a day. 
