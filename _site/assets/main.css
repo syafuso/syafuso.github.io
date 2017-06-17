@@ -189,7 +189,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 /*GLOBAL FONTS*/
 h1, h2, h3, strong, p.overall-rating, a.page-link, p.product-value-prop, .main-banner .text-overlay p { font-family: 'Overpass', sans-serif; }
 
-p.product-value-prop { font-size: 20px; font-weight: 800; margin-top: 22px; margin-bottom: 5px; }
+p.product-value-prop { font-size: 20px; font-weight: 800; margin-top: 22px; margin-bottom: 5px; color: black; }
 
 p { font-family: 'Helvetica', serif; font-size: 15px; }
 
@@ -199,7 +199,7 @@ a:visited { color: initial; }
 
 strong { font-weight: 900; }
 
-.comparison-chart a, .comparison-chart a:visited, a.amazon-link, a.amazon-link:visited { color: #d00000; text-decoration: none; padding-bottom: 2px; border-bottom: solid 3px #d00000; font-size: 12px; font-weight: 500; }
+a.amazon-link, a.amazon-link:visited { color: #d00000; text-decoration: none; padding-bottom: 2px; border-bottom: solid 3px #d00000; font-size: 12px; font-weight: 500; }
 
 header, footer { background: rgba(245, 245, 245, 0.29); }
 
@@ -214,6 +214,10 @@ header, footer { background: rgba(245, 245, 245, 0.29); }
 .main-banner a:hover { background-color: #730504; }
 
 a:hover { text-decoration: none; }
+
+h3 { font-weight: 800; }
+
+hr { height: 0px; border: 0px; border-top: 1px solid #c5c5c5; margin: 44px 0px 30px 0px; }
 
 /*end global*/
 /*-------HOME PAGE------------*/
@@ -253,7 +257,7 @@ table.comparison-chart { margin-bottom: 60px; }
 
 .comparison-chart tr, td { outline: solid 5px black; }
 
-.comparison-chart p.product-name { font-size: 12px; line-height: 16px; margin-bottom: 3px; }
+.comparison-chart p.product-name { font-size: 12px; line-height: 16px; margin-bottom: 3px; color: black; }
 
 .comparison-chart img { width: 100%; }
 

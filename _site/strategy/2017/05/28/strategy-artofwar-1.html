@@ -199,8 +199,9 @@ I can assure you of at least one thing - definitely not just artillery.</p>
 </footer>
 
 
-<!--ADD TARGET=_BLANK AND .AMAZON-LINK TO ALL AMAZON LINKS-->
+
 <script>
+/*ADD TARGET=_BLANK AND .AMAZON-LINK TO ALL AMAZON LINKS*/
 window.onload = function(){
   var anchors = document.getElementsByTagName('a');
   for (var i=0; i<anchors.length; i++){
@@ -210,6 +211,29 @@ window.onload = function(){
     }
 
   }
+  /*Add all relevant classes to comparison chart*/
+  var product_info = document.querySelectorAll(".comparison-chart.amazon-products a");
+  var test = document.querySelectorAll(".comparison-chart.amazon-products a");
+  //loop through all products in chart
+  for (var curr_product=0; curr_product<product_info.length; curr_product++) {
+    //split string
+    var product_str_before = product_info[curr_product].innerHTML.split(";");
+
+    //add tags to string
+    var product_str_after = product_str_before[0];
+    product_str_after = product_str_after.concat('<p class="product-value-prop">', product_str_before[1], '</p>');
+    product_str_after = product_str_after.concat('<p class="product-name product-price"><strong>', product_str_before[2], '</strong></p>');
+    product_str_after = product_str_after.concat('<p class="product-name">', product_str_before[3], '</p>');
+    product_str_after = product_str_after.concat('<a class="amazon-link">', product_str_before[4], '</a>');
+    
+    //insert string into DOM
+    var test2 = product_info[curr_product];
+    test2.innerHTML = product_str_after;
+
+    console.log(product_info);
+  }
+
+
 }
 </script>
 
