@@ -6,6 +6,8 @@
   <body>
 
     {% include header.html %}
+
+<!--DOUBLE BANNER
     <div class="main-banner">
       <div class="tint-overlay"></div>
           <div class="main-banner-left hero">
@@ -14,7 +16,6 @@
                 <p class="headline">MILITARY<br>HISTORY.</p>
                 <a href="/strategy">MUCH TO LEARN, YOU STILL HAVE</a>
               </div>
-            <!--<img src="images/home/wargame_theory_destroyed_landscape.jpg">-->
           </div>
 
         <div class="main-banner-right hero">
@@ -23,42 +24,23 @@
             <p class="headline">TACTICAL<br>GEAR.</p>
             <a href="/reviews">NOT ALL GEAR ARE CREATED EQUAL</a>
           </div>        
-          <!--<img src="images/home/wargame_theory_military_watch.jpg">-->
         </div>
-    </div>
+    </div>-->
 
-<!--
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-
-
-        <div class="home">
-
-
-          <h1 class="page-heading">HOME</h1>
-          
-          {{ content }}
-
-          <ul class="post-list">
-            {% for post in site.posts %}
-              <li>
-                {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-                <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-                <h2>
-                  <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-                </h2>
-              </li>
-            {% endfor %}
-          </ul>
-
-
-          <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
+    <!--<a href="/top-military-watches" class="main-banner-wrapper">-->
+      <div class="main-banner">
+        <a href="/top-military-watches" class="main-banner-wrapper">
+        <div class="tint-overlay"></div>
+        <div class="main-banner-full hero">
+            <div class="text-overlay">
+              <p class="headline">Best Military Watches.</p>
+              <p class="sub">The 4 best watches that are sure to fulfill your tactical needs.</p>
+              <p class="link">UPGRADE TIME</p>
+            </div>
         </div>
-
+        </a>
       </div>
-    </main>-->
+    <!--</a>-->
 
     {% include footer.html %}
 

@@ -209,7 +209,7 @@ header, footer { background: rgba(245, 245, 245, 0.29); }
 
 .site-title { max-width: 210px; }
 
-.main-banner a { background-color: #982018; color: white; padding: 14px 19px; font-size: 11px; }
+.main-banner a { background-color: #982018; color: white; padding: 11px 19px; font-size: 11px; }
 
 .main-banner a:hover { background-color: #730504; }
 
@@ -219,17 +219,23 @@ h3 { font-weight: 800; }
 
 hr { height: 0px; border: 0px; border-top: 1px solid #c5c5c5; margin: 44px 0px 30px 0px; }
 
+.link { background-color: #d00000; max-width: 124px; padding: 6px; margin: 0 auto; font-size: 13px; }
+
 /*end global*/
 /*-------HOME PAGE------------*/
-.main-banner { max-height: 500px; overflow: hidden; width: 100%; }
+a.main-banner-wrapper { display: block; width: 100%; height: 100%; margin: 0px; padding: 0px; }
+
+.main-banner { max-height: 550px; overflow: hidden; width: 100%; }
 
 .main-banner .eyebrow { margin-bottom: 4px; }
 
-.main-banner .headline { font-size: 53px; line-height: 58px; font-weight: 800; }
+.main-banner .headline { font-size: 52px; line-height: 58px; font-weight: 800; margin-bottom: 9px; }
 
 .main-banner .tint-overlay { background-color: rgba(0, 0, 0, 0.48); width: 100%; position: absolute; height: 500px; background-blend-mode: soft-light; }
 
 .main-banner-section-wrapper { position: absolute; height: 500px; width: 50%; padding: 0px; background: initial; }
+
+.main-banner-full { position: relative; width: 100%; height: 550px; background-image: url(../images/home/military_watch_main_banner.jpg); background-size: contain; background-color: black; background-repeat: no-repeat; }
 
 .main-banner-left { position: relative; width: 50%; height: 500px; float: left; background-image: url("../images/home/wargame_theory_destroyed_landscape.jpg"); background-size: cover; background-repeat: no-repeat; }
 
@@ -237,7 +243,9 @@ hr { height: 0px; border: 0px; border-top: 1px solid #c5c5c5; margin: 44px 0px 3
 
 .main-banner img { width: 100%; }
 
-.main-banner .text-overlay { position: absolute; color: white; max-width: 98%; left: 0; right: 0; top: 150px; text-align: center; }
+.main-banner .text-overlay { position: absolute; color: white; max-width: 98%; left: 0; right: 0; top: 56px; text-align: center; }
+
+.main-banner .text-overlay .sub { padding-bottom: 12px; }
 
 /*end main*/
 /*--------REVIEW POST----------*/
