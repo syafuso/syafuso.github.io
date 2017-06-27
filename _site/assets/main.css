@@ -235,7 +235,7 @@ a.main-banner-wrapper { display: block; width: 100%; height: 100%; margin: 0px; 
 
 .main-banner-section-wrapper { position: absolute; height: 500px; width: 50%; padding: 0px; background: initial; }
 
-.main-banner-full { position: relative; width: 100%; height: 550px; background-image: url(../images/home/military_watch_main_banner.jpg); background-size: contain; background-color: black; background-repeat: no-repeat; }
+.main-banner-full { position: relative; width: 100%; height: 550px; background-image: url(../images/home/military_watch_main_banner.png); background-size: 499px 293.5px; background-color: black; background-repeat: no-repeat; background-position: center bottom; }
 
 .main-banner-left { position: relative; width: 50%; height: 500px; float: left; background-image: url("../images/home/wargame_theory_destroyed_landscape.jpg"); background-size: cover; background-repeat: no-repeat; }
 
@@ -308,3 +308,4 @@ ul.post-list { margin-left: -15px; width: 772px; }
 /*-------end category----------*/
 @media only screen and (max-width: 768px) { .main-banner-left, .main-banner-right { width: 100%; height: 250px; float: initial; }
   .main-banner .main-banner-left .text-overlay, .main-banner .main-banner-right .text-overlay { position: absolute; color: white; max-width: 98%; left: 0; right: 0; top: 28px; text-align: center; } }
+@media only screen and (max-width: 480px) { .main-banner-full { background-size: 100%; } }
