@@ -7,7 +7,7 @@ categories: [reviews, watch]
 main-banner: /images/posts/watches/wargame-theory-review-window-demystified-main-banner.jpg
 main-banner-alt: "G-Shock Watch Face"
 thumbnail-image: /images/posts/watches/wargame-theory-review-window-demystified-thumbnail.jpg
-author: Kevin Boehle
+author: Kevin Bailey
 ---
 
 There are chiefly three different types of glass which can be used on watches: acrylic, mineral (glass), and sapphire. Some materials are more expensive than others, but all have different properties which potentially render them equally useful as long as you understand the advantages and limitations of each.

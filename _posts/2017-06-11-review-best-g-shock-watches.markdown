@@ -7,7 +7,7 @@ categories: [reviews, watch]
 main-banner: /images/posts/wargame-theory-review-best-g-shock-watch-main-banner.jpg
 main-banner-alt: "G-Shock Watch"
 thumbnail-image: /images/posts/wargame-theory-review-best-g-shock-watch-thumbnail.jpg
-author: Kevin Boehle
+author: Kevin Bailey
 ---
 
 <table class="comparison-chart amazon-products">
@@ -15,7 +15,7 @@ author: Kevin Boehle
 <td markdown="1">
 [![G-Shock Solar Black Resin Watch][product-image-1];
 Best Overall;
-$75-$130;
+$$;
 G-Shock Solar<br>Black Resin Watch;
 Check Amazon Price;
 ][product-link-1]
@@ -23,7 +23,7 @@ Check Amazon Price;
 <td markdown="1">
 [![G-Shock Mudmaster Sapphire Watch][product-image-2];
 Most Durable;
-$580-$600;
+$$$$;
 G-Shock Mudmaster<br>Sapphire Watch;
 Check Amazon Price;
 ][product-link-2]
@@ -31,7 +31,7 @@ Check Amazon Price;
 <td markdown="1">
 [![G-Shock Protrek Smart Quartz Watch][product-image-3];
 Best Features;
-$500-$550;
+$$$$;
 G-Shock Protrek Smart Quartz Watch;
 Check Amazon Price;
 ][product-link-3]
@@ -39,7 +39,7 @@ Check Amazon Price;
 <td markdown="1">
 [![G-Shock Sport Watch][product-image-4];
 Best Budget;
-$40-$50;
+$;
 G-Shock<br>Sport Watch;
 Check Amazon Price;
 ][product-link-4]

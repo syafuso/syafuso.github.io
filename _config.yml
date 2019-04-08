@@ -16,7 +16,7 @@
 title: Wargame Theory
 #email: your-email@domain.com
 description: Learn military strategy and discover great tactical gear.
-author: Kevin Boehle
+author: Kevin Bailey
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wargametheory.com/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

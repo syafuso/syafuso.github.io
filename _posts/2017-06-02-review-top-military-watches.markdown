@@ -7,7 +7,7 @@ categories: [reviews, watch]
 main-banner: /images/posts/wargame-theory-review-best-military-watch-main-banner.jpg
 main-banner-alt: "Military Watch"
 thumbnail-image: /images/posts/wargame-theory-review-best-military-watch-thumbnail.jpg
-author: Kevin Boehle
+author: Kevin Bailey
 ---
 
 <table class="comparison-chart amazon-products">
@@ -15,7 +15,7 @@ author: Kevin Boehle
 <td markdown="1">
 [![G-Shock Black Resin Watch][product-image-1];
 Best Overall;
-$40-$50;
+$;
 Casio G-Shock Black Resin Sport Watch;
 Check Amazon Price;
 ][product-link-1]
@@ -23,7 +23,7 @@ Check Amazon Price;
 <td markdown="1">
 [![G-Shock Green Quartz Watch][product-image-2];
 Most Durable;
-$197-$320;
+$$$;
 Casio G-Shock Quartz<br>Stainless Steel Watch;
 Check Amazon Price;
 ][product-link-2]
@@ -31,7 +31,7 @@ Check Amazon Price;
 <td markdown="1">
 [![Luminox Quartz Watch][product-image-3];
 Best Design;
-$190-$205;
+$$$;
 Luminox Navy Seal Colormark Quartz Watch;
 Check Amazon Price;
 ][product-link-3]
@@ -39,7 +39,7 @@ Check Amazon Price;
 <td markdown="1">
 [![Seiko Stainless Steel Watch][product-image-4];
 Best Budget;
-$130-$140;
+$$;
 Seiko 5 Automatic<br>Stainless Steel Watch;
 Check Amazon Price;
 ][product-link-4]
